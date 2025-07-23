@@ -1,16 +1,11 @@
 # Modeling PV Production with Machine Learning
 
-## Challenge Name:
-**Modeling PV Production with Machine Learning**
-
 ---
 
 ## Short Description:
 Develop a machine learning model to estimate the energy production of small photovoltaic (PV) systems (<30kWp) using feed-in data, weather information, and egid data. The goal is to enable innovative and intelligent grid- and market-oriented solar energy solutions.
 
 ---
-
-## Description:
 
 ### Background:
 For small photovoltaic systems (<30kWp), CKW currently only measures the energy fed into its grid. This creates a gap in understanding the actual energy production and self-consumption of these systems. The objective of this challenge is to bridge that gap by developing a machine learning model that can accurately estimate total energy production and self-consumption.  
