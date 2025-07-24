@@ -1,2 +1,8 @@
 pandas
 numpy
+math 
+joblib
+matplotlib
+sklearn
+xgboost
+holidays
