@@ -1,2 +1,8 @@
 pandas
 numpy
+joblib
+matplotlib
+scikit-learn
+xgboost
+holidays
+pyarrow

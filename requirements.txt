@@ -1,8 +1,8 @@
 pandas
 numpy
-math 
 joblib
 matplotlib
-sklearn
+scikit-learn
 xgboost
 holidays
+pyarrow
